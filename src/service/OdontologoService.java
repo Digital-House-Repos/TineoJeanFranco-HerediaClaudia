@@ -12,12 +12,8 @@ public class OdontologoService {
         this.odontologoiDao = odontologoiDao;
     }
 
-    public void guardarOdontologo(Odontologo odontologo) {
-        odontologoiDao.guardar(odontologo);
-    }
-
-    public Odontologo listarOdontologo(int id) {
-        return odontologoiDao.listarPorID(id);
+    public String guardarOdontologo(Odontologo odontologo) {
+        return odontologoiDao.guardar(odontologo);
     }
 
     public ArrayList<Odontologo> listarTodosOdontologos() {

@@ -1,3 +1,20 @@
 [2024-05-15 21:47:56] [ INFO ] [OdontologoEnMemoriaDAO:18] Guardando odontologo en memoria
 [2024-05-15 21:47:56] [ INFO ] [OdontologoEnMemoriaDAO:18] Guardando odontologo en memoria
 [2024-05-15 21:47:56] [ INFO ] [OdontologoEnMemoriaDAO:29] Listando odontologos en memoria
+[2024-05-15 22:17:01] [ INFO ] [OdontologoEnMemoriaDAO:18] Guardando odontologo en memoria
+[2024-05-15 22:17:02] [ INFO ] [OdontologoEnMemoriaDAO:18] Guardando odontologo en memoria
+[2024-05-15 22:17:02] [ INFO ] [OdontologoEnMemoriaDAO:25] Listando odontologos en memoria
+[2024-05-15 22:18:10] [ INFO ] [OdontologoEnMemoriaDAO:15] Haciendo test de odontologos en memoria
+[2024-05-15 22:18:10] [ INFO ] [OdontologoEnMemoriaDAO:18] Guardando odontologo en memoria
+[2024-05-15 22:18:10] [ INFO ] [OdontologoEnMemoriaDAO:25] Listando odontologos en memoria
+[2024-05-15 22:18:10] [ INFO ] [OdontologoEnMemoriaDAO:30] Haciendo test de odontologos en H2
+[2024-05-15 22:18:10] [ INFO ] [OdontologoH2DAO:56] Guardando odontologo en H2
+[2024-05-15 22:18:19] [ INFO ] [OdontologoEnMemoriaDAO:18] Guardando odontologo en memoria
+[2024-05-15 22:18:19] [ INFO ] [OdontologoEnMemoriaDAO:18] Guardando odontologo en memoria
+[2024-05-15 22:18:19] [ INFO ] [OdontologoEnMemoriaDAO:25] Listando odontologos en memoria
+[2024-05-15 22:18:32] [ INFO ] [OdontologoH2DAO:56] Guardando odontologo en H2
+[2024-05-15 22:18:32] [ ERROR] [OdontologoH2DAO:65] Error al guardar odontologo en H2
+[2024-05-15 22:18:32] [ ERROR] [OdontologoH2DAO:37] Error al listar odontologos en H2
+[2024-05-15 22:19:39] [ INFO ] [OdontologoH2DAO:59] Guardando odontologo en H2
+[2024-05-15 22:19:39] [ INFO ] [OdontologoH2DAO:59] Guardando odontologo en H2
+[2024-05-15 22:19:39] [ INFO ] [OdontologoH2DAO:33] Listando odontologos en H2

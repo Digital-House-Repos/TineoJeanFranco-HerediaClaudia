@@ -29,9 +29,6 @@ public class DBConnector {
         connection = DriverManager.getConnection(databaseURL, databaseUser, databasePassword);
 
         System.out.println("Successful connection");
-        String databaseName = connection.getMetaData().getDatabaseProductName();
-        String databaseVersion = connection.getMetaData().getDatabaseProductVersion();
-        System.out.println(databaseName + " " + databaseVersion);
     }
 
     public Connection getConnection() {

@@ -14,14 +14,10 @@ public class OdontologoEnMemoriaDAO implements IDAO<Odontologo> {
     }
 
     @Override
-    public void guardar(Odontologo odontologo) {
+    public String guardar(Odontologo odontologo) {
         logger.info("Guardando odontologo en memoria");
         odontologos.add(odontologo);
-    }
-
-    @Override
-    public Odontologo listarPorID(int id) {
-        return null;
+        return "Odontologo guardado en memoria";
     }
 
     @Override
