@@ -23,6 +23,8 @@ public class DBConnector {
         Class.forName("org.h2.Driver");
         // Contenedor de docker en puerto 9092 & sin contraseña ni usuario
         String databaseURL = "jdbc:h2:tcp://172.17.0.2:9092/demo1";
+        // H2 en local
+//        String databaseURL = "jdbc:h2:~/test";
         String databaseUser = "";
         String databasePassword = "";
 

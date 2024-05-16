@@ -1,6 +1,6 @@
 CREATE TABLE ODONTOLOGOS  (
     id INT PRIMARY KEY AUTO_INCREMENT,
-    numeroMatricula VARCHAR(50) NOT NULL UNIQUE,
+    numeroMatricula VARCHAR(50) NOT NULL,
     nombre VARCHAR(100) NOT NULL,
     apellido VARCHAR(100) NOT NULL
 );
